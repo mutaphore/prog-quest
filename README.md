@@ -1,11 +1,6 @@
-Programming Interview Questions
-----
+# Programming Interview Questions
 
-# List of questions
-
-sources:
-
-[http://www.ardendertat.com/2012/01/09/programming-interview-questions/]
+## List of questions
 
 1. Array Pair Sum
 Given an integer array, output all pairs that sum up to a specific value k.
@@ -89,4 +84,9 @@ Given the root of a binary search tree and 2 numbers min and max, trim the tree 
 Find the squareroot of a given number rounded down to the nearest integer, without using the sqrt function. For example, squareroot of a number between [9, 15] should return 3, and [16, 24] should be 4.
 
 28. Longest Compound Word
-Given a sorted list of words, find the longest compound word in the list that is constructed by concatenating the words in the list. For example, if the input list is: [‘cat’, ‘cats’, ‘catsdogcats’, ‘catxdogcatsrat’, ‘dog’, ‘dogcatsdog’, ‘hippopotamuses’, ‘rat’, ‘ratcat’, ‘ratcatdog’, ‘ratcatdogcat’]. Then the longest compound word is ‘ratcatdogcat’ with 12 letters. Note that the longest individual words are ‘catxdogcatsrat’ and ‘hippopotamuses’ with 14 letters, but they’re not fully constructed by other words. Former one has an extra ‘x’ letter, and latter is an individual word by itself not a compound word.
+
+29. [Where is Easter Bunny HQ?](easter-bunny-hq.md)
+
+*Problem sources*
+http://www.ardendertat.com/2012/01/09/programming-interview-questions/
+http://adventofcode.com/2016/
