@@ -1,12 +1,12 @@
 # Programming Interview Questions
 
-## List of questions
+This is my solutions to programming questions I studied in order to prepare for job interviews. Please feel free to create pull requests for any problems you would like to add and/or issues!
 
-1. Array Pair Sum
-Given an integer array, output all pairs that sum up to a specific value k.
+## Problems
 
-2. Matrix Region Sum
-Given a matrix of integers and coordinates of a rectangular region within the matrix, find the sum of numbers falling inside the rectangle. Our program will be called multiple times with different rectangular regions from the same matrix.
+1. [Array Pair Sum](array-pair-sum.md)
+
+2. [Matrix Region Sum](matrix-region-sum.md)
 
 3. Largest Continuous Sum
 Given an array of integers (positive and negative) find the largest continuous sum.
@@ -83,10 +83,10 @@ Given the root of a binary search tree and 2 numbers min and max, trim the tree 
 27. Squareroot of a Number
 Find the squareroot of a given number rounded down to the nearest integer, without using the sqrt function. For example, squareroot of a number between [9, 15] should return 3, and [16, 24] should be 4.
 
-28. Longest Compound Word
+28. [Longest Compound Word](longest-compound-word.md)
 
 29. [Where is Easter Bunny HQ?](easter-bunny-hq.md)
 
-*Problem sources*
-http://www.ardendertat.com/2012/01/09/programming-interview-questions/
-http://adventofcode.com/2016/
+## Problem sources
+* http://www.ardendertat.com/2012/01/09/programming-interview-questions/
+* http://adventofcode.com/2016/

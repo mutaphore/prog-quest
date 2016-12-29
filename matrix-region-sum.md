@@ -1,9 +1,9 @@
 # Matrix Region Sum
 
 ## Problem
-Given a matrix of integers and coordinates of a rectangular region within the matrix, find the sum of numbers falling inside the rectangle. Our program will be called multiple times with different rectangular regions from the same matrix. [http://www.ardendertat.com/2011/09/20/programming-interview-questions-2-matrix-region-sum/] 
+Given a matrix of integers and coordinates of a rectangular region within the matrix, find the sum of numbers falling inside the rectangle. Our program will be called multiple times with different rectangular regions from the same matrix.
 
-## Python Solution 1
+## Solution 1 - Python
 Always take O(M*N) time
 ```python
 # inputs
@@ -19,7 +19,7 @@ def region_sum(mat, coords):
   return total
 ```
 
-## Python Solution 2
+## Solution 2 - Python
 O(M*N) initially, O(1) for every call after that
 ```python
 # inputs
