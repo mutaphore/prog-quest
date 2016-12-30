@@ -1,6 +1,6 @@
 # Programming Interview Questions
 
-This is my solutions to programming questions I studied in order to prepare for job interviews. Please feel free to create pull requests for any problems you would like to add and/or issues!
+Solutions to programming questions I studied in order to prepare for job interviews. Please feel free to create pull requests for any problems you would like to add and/or issues!
 
 ## Problems
 
@@ -86,6 +86,8 @@ Find the squareroot of a given number rounded down to the nearest integer, witho
 28. [Longest Compound Word](longest-compound-word.md)
 
 29. [Where is Easter Bunny HQ?](easter-bunny-hq.md)
+
+30. [Dictionary anagrams]()
 
 ## Problem sources
 * http://www.ardendertat.com/2012/01/09/programming-interview-questions/
