@@ -4,9 +4,9 @@ Solutions to programming questions I studied in order to prepare for job intervi
 
 ## Problems
 
-1. [Array Pair Sum](array-pair-sum.md)
+1. [Array Pair Sum](problems/array-pair-sum.md)
 
-2. [Matrix Region Sum](matrix-region-sum.md)
+2. [Matrix Region Sum](problems/matrix-region-sum.md)
 
 3. Largest Continuous Sum
 Given an array of integers (positive and negative) find the largest continuous sum.
@@ -83,9 +83,9 @@ Given the root of a binary search tree and 2 numbers min and max, trim the tree 
 27. Squareroot of a Number
 Find the squareroot of a given number rounded down to the nearest integer, without using the sqrt function. For example, squareroot of a number between [9, 15] should return 3, and [16, 24] should be 4.
 
-28. [Longest Compound Word](longest-compound-word.md)
+28. [Longest Compound Word](problems/longest-compound-word.md)
 
-29. [Where is Easter Bunny HQ?](easter-bunny-hq.md)
+29. [Where is Easter Bunny HQ?](problems/easter-bunny-hq.md)
 
 30. [Dictionary anagrams]()
 
