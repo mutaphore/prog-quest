@@ -1,6 +1,6 @@
 # Programming Interview Questions
 
-Solutions to programming questions I studied in order to prepare for job interviews. Please feel free to create pull requests for any problems you would like to add and/or issues!
+Questions I studied to prepare for programming job interviews. Please feel free to create pull requests for any questions, contributions and issues!
 
 ## Problems
 
@@ -12,8 +12,7 @@ Solutions to programming questions I studied in order to prepare for job intervi
 
 4. [Find Missing Element](problems/find-missing-element.md)
 
-5. Linked List Remove Nodes
-Given a linkedlist of integers and an integer value, delete every node of the linkedlist containing that value.
+5. [Linked List Remove Nodes](problems/linked-list-remove.md)
 
 6. Combine Two Strings
 We are given 3 strings: str1, str2, and str3. Str3 is said to be a shuffle of str1 and str2 if it can be formed by interleaving the characters of str1 and str2 in a way that maintains the left to right ordering of the characters from each string. For example, given str1=”abc” and str2=”def”, str3=”dabecf” is a valid shuffle since it preserves the character ordering of the two strings. So, given these 3 strings write a function that detects whether str3 is a valid shuffle of str1 and str2.
