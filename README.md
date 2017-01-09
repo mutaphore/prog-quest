@@ -84,7 +84,9 @@ Find the squareroot of a given number rounded down to the nearest integer, witho
 
 29. [Where is Easter Bunny HQ?](problems/easter-bunny-hq.md)
 
-30. [Dictionary anagrams]()
+30. [Dictionary anagrams](problems/dict-anagrams.md)
+
+31. [Compute parity](problems/compute-parity.md)
 
 ## Problem sources
 * http://www.ardendertat.com/2012/01/09/programming-interview-questions/
