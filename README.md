@@ -20,8 +20,7 @@ Questions I studied to prepare for programming job interviews. Please feel free 
 
 8. [Transform Word](problems/transform-word.md)
 
-9. Convert Array
-Given an array [a1, a2, …, aN, b1, b2, …, bN, c1, c2, …, cN]  convert it to [a1, b1, c1, a2, b2, c2, …, aN, bN, cN] in-place using constant extra space
+9. [Convert Array](problems/convert-array.md)
 
 10. Kth Largest Element in Array
 Given an array of integers find the kth element in the sorted order (not the kth distinct element). So, if the array is [3, 1, 2, 1, 4] and k is 3 then the result is 2, because it’s the 3rd element in sorted order (but the 3rd distinct element is 3).
