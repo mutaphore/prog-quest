@@ -18,4 +18,3 @@ for i in A:
         result[t] = 1
 
 print result.keys()
-
