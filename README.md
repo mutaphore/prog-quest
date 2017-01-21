@@ -16,11 +16,9 @@ Questions I studied to prepare for programming job interviews. Please feel free 
 
 6. [Combine Two Strings](problems/combine-two-strings.md)
 
-7. Binary Search Tree Check
-Given a binary tree, check whether it’s a binary search tree or not.
+7. [Binary Search Tree Check](problems/bst-check.md)
 
-8. Transform Word
-Given a source word, target word and an English dictionary, transform the source word to target by changing/adding/removing 1 character at a time, while all intermediate words being valid English words. Return the transformation chain which has the smallest number of intermediate words.
+8. [Transform Word](problems/transform-word.md)
 
 9. Convert Array
 Given an array [a1, a2, …, aN, b1, b2, …, bN, c1, c2, …, cN]  convert it to [a1, b1, c1, a2, b2, c2, …, aN, bN, cN] in-place using constant extra space

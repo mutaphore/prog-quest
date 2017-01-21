@@ -4,13 +4,13 @@
 Describe the problem in a single paragraph here.
 
 ### Sample Input 1
-```
-Sample input to the problem
+```python
+# Sample input to the problem
 ```
 
 ### Sample Input 2
-```
-Sample input to the problem
+```python
+# Sample input to the problem
 ```
 
 ## [language-used] Solution 1
