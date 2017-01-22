@@ -22,8 +22,7 @@ Questions I studied to prepare for programming job interviews. Please feel free 
 
 9. [Convert Array](problems/convert-array.md)
 
-10. Kth Largest Element in Array
-Given an array of integers find the kth element in the sorted order (not the kth distinct element). So, if the array is [3, 1, 2, 1, 4] and k is 3 then the result is 2, because it’s the 3rd element in sorted order (but the 3rd distinct element is 3).
+10. [Kth Largest Element in Array](problems/kth-largest.md)
 
 11. All Permutations of String
 Generate all permutations of a given string.
