@@ -83,6 +83,8 @@ Find the squareroot of a given number rounded down to the nearest integer, witho
 
 31. [Compute parity](problems/compute-parity.md)
 
+32. [First missing integer](problems/first-missing-integer.md)
+
 ## Problem sources
 * http://www.ardendertat.com/2012/01/09/programming-interview-questions/
 * http://adventofcode.com/2016/
